@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="sun"
+   x="0px"
+   y="0px"
+   viewBox="0 0 540 64"
+   xml:space="preserve"
+   sodipodi:docname="greeting-morning.svg"
+   width="540"
+   height="64"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs150"><rect
+     x="70.793129"
+     y="0"
+     width="463.52484"
+     height="42.877812"
+     id="rect2419" /></defs><sodipodi:namedview
+   id="namedview148"
+   pagecolor="#505050"
+   bordercolor="#ffffff"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#505050"
+   showgrid="false"
+   inkscape:zoom="2.215233"
+   inkscape:cx="271.98042"
+   inkscape:cy="49.204757"
+   inkscape:window-width="1920"
+   inkscape:window-height="1011"
+   inkscape:window-x="0"
+   inkscape:window-y="32"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="sun" />
+<path
+   style="display:inline;fill:#0060f1;fill-opacity:1"
+   d="m 32,13.364 c -10.34,0 -18.72,8.38 -18.72,18.72 0,10.34 8.38,18.72 18.72,18.72 10.34,0 18.72,-8.38 18.72,-18.72 0,-10.34 -8.38,-18.72 -18.72,-18.72 z m 0,3.72 c -8.27,0 -15,6.73 -15,15 h -1 c 0,-8.82 7.18,-16 16,-16 z"
+   id="icon:2_1_"
+   inkscape:label="sun-center" />
+<path
+   style="display:inline;fill:#0060f1;fill-opacity:1"
+   d="m 41.373,41.373 3.663,9.335 5.672,-5.672 z"
+   id="path326"
+   inkscape:label="sun-top-left"
+   transform="translate(-32,-32)" />
+<path
+   style="display:inline;fill:#0060f1;fill-opacity:1"
+   d="m 77.293,82.964 5.672,-5.672 3.663,9.335 z"
+   id="path324"
+   inkscape:label="sun-bottom-right"
+   transform="translate(-32,-32)" />
+<path
+   style="display:inline;fill:#0060f1;fill-opacity:1"
+   d="m 41.373,86.627 9.335,-3.663 -5.672,-5.672 z"
+   id="path322"
+   inkscape:label="sun-bottom-left"
+   transform="translate(-32,-32)" />
+<path
+   style="display:inline;fill:#0060f1;fill-opacity:1"
+   d="m 82.964,50.707 -5.672,-5.672 9.335,-3.663 z"
+   id="path320"
+   inkscape:label="sun-top-right"
+   transform="translate(-32,-32)" />
+<path
+   style="display:inline;fill:#0060f1;fill-opacity:1"
+   d="m 32,64 9.191,4.01 v -8.02 z"
+   id="path318"
+   inkscape:label="sun-left"
+   transform="translate(-32,-32)" />
+<path
+   style="display:inline;fill:#0060f1;fill-opacity:1"
+   d="M 86.809,68.01 V 59.99 L 96,64 Z"
+   id="path316"
+   inkscape:label="sun-right"
+   transform="translate(-32,-32)" />
+<path
+   style="display:inline;fill:#0060f1;fill-opacity:1"
+   d="m 64,96 4.01,-9.191 h -8.02 z"
+   id="path314"
+   inkscape:label="sun-bottom"
+   transform="translate(-32,-32)" />
+<path
+   style="display:inline;fill:#0060f1;fill-opacity:1"
+   d="M 68.01,41.191 H 59.99 L 64,32 Z"
+   id="path312"
+   inkscape:label="sun-top"
+   transform="translate(-32,-32)" />
+
+
+<text
+   xml:space="preserve"
+   id="text2417"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.3333px;font-family:'Bark For Life';-inkscape-font-specification:'Bark For Life, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;direction:ltr;white-space:pre;shape-inside:url(#rect2419);shape-padding:0.00832086;display:inline;fill:#0060f1"
+   x="9.0332032e-06"
+   y="0"
+   transform="translate(3.0627146,7.3681167)"
+   inkscape:label="text-greeting"><tspan
+     x="70.800781"
+     y="35.738541"
+     id="tspan3723">Good afternoon, visitor number 12.</tspan></text></svg>
