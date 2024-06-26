@@ -2,6 +2,7 @@
   "name": "svg-widgets",
   "version": "1.0.0",
   "description": "An app for dynamically generating SVGs'.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
